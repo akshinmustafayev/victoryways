@@ -1,0 +1,4 @@
+http://i.s-microsoft.com/fonts/Segoe-UI/Cyrillic/Light/latest.eot
+http://i.s-microsoft.com/fonts/Segoe-UI/Cyrillic/Light/latest.woff
+http://i.s-microsoft.com/fonts/Segoe-UI/Cyrillic/Light/latest.ttf
+http://i.s-microsoft.com/fonts/Segoe-UI/Cyrillic/Light/latest.svg
